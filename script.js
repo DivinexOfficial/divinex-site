@@ -1,1 +1,1 @@
-console.log('DIVINEX Token site loaded.');
+// Wallet connect logic placeholder
