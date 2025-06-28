@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Read DIVINEX Whitepaper</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            background-color: #000;
+            color: #00ff00;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 40px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #00ffcc;
+        }
+        a {
+            color: #00ffff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>DIVINEX Whitepaper</h1>
+    <p><strong>Version:</strong> 1.0</p>
+    <p><strong>Last Updated:</strong> June 28, 2025</p>
+
+    <div class="section">
+        <h2>🔹 Introduction</h2>
+        <p>DIVINEX is the token of digital value, loyalty, and evolution. Built on BNB Smart Chain, it aims to revolutionize how users interact with token economies.</p>
+    </div>
+
+    <div class="section">
+        <h2>🔹 Mission</h2>
+        <p>To empower individuals and communities with a fair, transparent, and rewarding token ecosystem powered by loyalty, blockchain and visionary leadership.</p>
+    </div>
+
+    <div class="section">
+        <h2>🔹 Tokenomics</h2>
+        <ul>
+            <li><strong>Total Supply:</strong> 1,000,000 DVX</li>
+            <li><strong>Contract Address:</strong> 0x32f2C52928385420d3E918bF578255A2bcb30bc9</li>
+            <li><strong>Chain:</strong> BNB Smart Chain (BSC)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🔹 Use Cases</h2>
+        <p>DVX will be used in:</p>
+        <ul>
+            <li>Purchasing digital loyalty items</li>
+            <li>Accessing exclusive missions</li>
+            <li>Unlocking NFT prophecy chests</li>
+            <li>Participating in governance and rewards</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🔹 Roadmap</h2>
+        <p>DIVINEX is evolving continuously. New features, integrations, and expansions will be announced through our official channels.</p>
+    </div>
+
+    <footer>
+        <p>Visit our website: <a href="https://divinex.app" target="_blank">https://divinex.app</a></p>
+    </footer>
+</body>
+</html>
