@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DIVINUM — Sadakat Görev Oyunu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>DIVINUM</h1>
+    <p class="slogan">Sadakat, Kudret, Kehanet. Çağın Ötesine Yolculuk Başlıyor.</p>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>🧬 Görev #001: Kehanet Sandığını Aç</h2>
+      <p>Sadakatini göster. DVX kazan. Kudret zincirini başlat.</p>
+      <button onclick="startQuest()">Görevi Başlat</button>
+    </section>
+
+    <section class="stats">
+      <h3>Sadakat Puanı: <span id="points">0</span></h3>
+      <p>DVX Bakiyen: <span id="dvx">0</span> DVX</p>
+    </section>
+
+    <section class="actions">
+      <button onclick="openChest()">🎁 Sandık Aç</button>
+      <button onclick="viewProfile()">🧙‍♂️ Profilim</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Divinum | Süleyman’ın Kudretiyle Kodlandı</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
